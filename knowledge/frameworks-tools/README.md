@@ -15,5 +15,9 @@
 | [React 依赖比较与引用稳定性](k-2777a264-identity.md) | ready |
 | [React Element 与 Fiber](k-7f44198d-fiber.md) | ready |
 | [React 19 的 Actions 与新 API](k-9c441d6c-react19.md) | ready |
+| [实时可视化的数据与渲染预算](k-6aae5209-realtime-rendering.md) | ready |
+| [Web Worker 并行计算与消息通信](k-8849404b-web-workers.md) | ready |
+| [Git 工作区、暂存区与协作历史](k-f2ec3b79-git-workflow.md) | ready |
+| [CSR、SSR、水合与可恢复执行](k-f7b2349f-rendering-hydration-resume.md) | ready |
 
 [返回总索引](../README.md)

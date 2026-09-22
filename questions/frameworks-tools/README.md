@@ -27,5 +27,10 @@
 | [虚拟 DOM 的原理是什么，为什么需要 key？](q-af53944d-virtual-dom.md) | principle | ready |
 | [React Fiber 如何支持可中断渲染？](q-cafcea45-fiber-principle.md) | principle | ready |
 | [React 19 有哪些值得关注的新能力？](q-be806d53-react-19-features.md) | concept | ready |
+| [大屏项目如何进行持续运行的性能优化？](q-f93a75ec-dashboard-performance.md) | scenario | ready |
+| [Web Worker 最多能创建几个，线程间如何通信？](q-88b02c0b-worker-limits-messaging.md) | concept | ready |
+| [什么是 CSS 盒模型，box-sizing 如何影响尺寸？](q-a9e0dcb1-box-sizing.md) | concept | ready |
+| [常用 Git 命令有哪些，如何组织日常协作？](q-c90ba134-git-common-commands.md) | concept | ready |
+| [SSR、CSR 与 Resumable SSR 有何区别，首屏与交互谁更快？](q-1c7fbfdd-ssr-csr-resumability.md) | comparison | ready |
 
 [返回总索引](../README.md)
